@@ -1,0 +1,15 @@
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\bin\Debug\net6.0\Task reversing a word.exe
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\bin\Debug\net6.0\Task reversing a word.deps.json
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\bin\Debug\net6.0\Task reversing a word.runtimeconfig.json
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\bin\Debug\net6.0\Task reversing a word.dll
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\bin\Debug\net6.0\Task reversing a word.pdb
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\obj\Debug\net6.0\Task reversing a word.csproj.AssemblyReference.cache
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\obj\Debug\net6.0\Task reversing a word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\obj\Debug\net6.0\Task reversing a word.AssemblyInfoInputs.cache
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\obj\Debug\net6.0\Task reversing a word.AssemblyInfo.cs
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\obj\Debug\net6.0\Task reversing a word.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\obj\Debug\net6.0\Task reversing a word.dll
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\obj\Debug\net6.0\refint\Task reversing a word.dll
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\obj\Debug\net6.0\Task reversing a word.pdb
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\obj\Debug\net6.0\Task reversing a word.genruntimeconfig.cache
+C:\Users\Abdullah Manafli\source\repos\Task reversing a word\Task reversing a word\obj\Debug\net6.0\ref\Task reversing a word.dll
